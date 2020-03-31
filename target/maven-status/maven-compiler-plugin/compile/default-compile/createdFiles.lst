@@ -1,0 +1,12 @@
+dev/alex/pages/Index.class
+dev/alex/App.class
+dev/alex/services/AppModule.class
+dev/alex/AppConfiguration.class
+dev/alex/components/Layout.class
+dev/alex/pages/Login.class
+dev/alex/pages/About.class
+dev/alex/AppConfiguration$1.class
+dev/alex/pages/Error404.class
+dev/alex/services/DevelopmentModule.class
+dev/alex/services/AppModule$1.class
+dev/alex/services/QaModule.class
